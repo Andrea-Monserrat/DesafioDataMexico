@@ -1,0 +1,275 @@
+State ID,State,Patient ID,Patient Treatment Days,Treatment Cost,Date
+8,Chihuahua,4618*,5,$132k MX,sep-20
+24,San Luis Potosí,4610*,3,$105k MX,sep-20
+15,Estado de México,4553*,10,$317k MX,sep-20
+30,Veracruz de Ignacio de la Llave,4536*,20,$1.16M MX,sep-20
+30,Veracruz de Ignacio de la Llave,4516*,12,$599k MX,sep-20
+30,Veracruz de Ignacio de la Llave,4491*,20,$389k MX,sep-20
+15,Estado de México,4469*,26,$980k MX,sep-20
+15,Estado de México,4462*,9,$144k MX,sep-20
+8,Chihuahua,4410*,7,$187k MX,sep-20
+22,Querétaro,4389*,10,$158k MX,sep-20
+15,Estado de México,4364*,7,$174k MX,sep-20
+15,Estado de México,4362*,2,$43k MX,sep-20
+15,Estado de México,4357*,10,$191k MX,sep-20
+15,Estado de México,4321*,9,$217k MX,sep-20
+9,Ciudad de México,4316*,14,$836k MX,sep-20
+9,Ciudad de México,4315*,35,$3.39M MX,sep-20
+9,Ciudad de México,4313*,5,$58k MX,sep-20
+1,Aguascalientes,4285*,5,$85k MX,sep-20
+1,Aguascalientes,4269*,12,$520k MX,sep-20
+26,Sonora,4257*,28,$485k MX,sep-20
+22,Querétaro,4255*,7,$160k MX,sep-20
+15,Estado de México,4254*,14,$638k MX,sep-20
+19,Nuevo León,4230*,2,$51.4k MX,sep-20
+19,Nuevo León,4208*,4,$61.6k MX,sep-20
+15,Estado de México,4204*,11,$463k MX,sep-20
+15,Estado de México,4203*,22,$882k MX,sep-20
+28,Tamaulipas,4154*,12,$222k MX,sep-20
+19,Nuevo León,4114*,2,$329k MX,sep-20
+9,Ciudad de México,4104*,0,$241k MX,sep-20
+9,Ciudad de México,4086*,4,$89.7k MX,sep-20
+19,Nuevo León,4055*,6,$179k MX,sep-20
+26,Sonora,4021*,32,$451k MX,sep-20
+24,San Luis Potosí,4007*,1,$18.4k MX,sep-20
+8,Chihuahua,3998*,6,$85.7k MX,sep-20
+5,Coahuila de Zaragoza,3961*,0,$2.13M MX,sep-20
+9,Ciudad de México,3931*,6,$108k MX,sep-20
+9,Ciudad de México,3930*,8,$111k MX,sep-20
+9,Ciudad de México,3925*,7,$86.9k MX,sep-20
+9,Ciudad de México,3892*,9,$96.6k MX,sep-20
+26,Sonora,3882*,0,$431k MX,sep-20
+9,Ciudad de México,3872*,8,$121k MX,sep-20
+9,Ciudad de México,3846*,10,$274k MX,sep-20
+8,Chihuahua,3842*,80,$11.5M MX,sep-20
+9,Ciudad de México,3841*,16,$429k MX,sep-20
+9,Ciudad de México,3830*,2,$41.6k MX,sep-20
+26,Sonora,3785*,74,$1.29M MX,sep-20
+19,Nuevo León,3783*,6,$100k MX,sep-20
+14,Jalisco,3769*,6,$211k MX,sep-20
+26,Sonora,3760*,74,$473k MX,sep-20
+25,Sinaloa,3738*,5,$2.11M MX,sep-20
+14,Jalisco,3705*,2,$60k MX,sep-20
+26,Sonora,3702*,33,$888k MX,sep-20
+26,Sonora,3699*,72,$818k MX,sep-20
+26,Sonora,3677*,27,$469k MX,sep-20
+21,Puebla,3660*,7,$339k MX,sep-20
+14,Jalisco,3652*,4,$115k MX,sep-20
+15,Estado de México,3650*,30,$949k MX,sep-20
+15,Estado de México,3648*,0,$761k MX,sep-20
+9,Ciudad de México,3640*,4,$73.1k MX,sep-20
+15,Estado de México,3634*,6,$159k MX,sep-20
+14,Jalisco,3627*,34,$2.28M MX,sep-20
+9,Ciudad de México,3553*,13,$1.17M MX,sep-20
+21,Puebla,3548*,5,$447k MX,sep-20
+15,Estado de México,3538*,5,$199k MX,sep-20
+9,Ciudad de México,3525*,0,$178k MX,sep-20
+15,Estado de México,3509*,0,$188k MX,sep-20
+21,Puebla,3504*,8,$220k MX,sep-20
+15,Estado de México,3502*,7,$177k MX,sep-20
+15,Estado de México,3485*,9,$287k MX,sep-20
+14,Jalisco,3452*,6,$135k MX,sep-20
+14,Jalisco,3446*,63,$4.44M MX,sep-20
+9,Ciudad de México,3432*,7,$195k MX,sep-20
+16,Michoacán de Ocampo,3427*,8,$235k MX,sep-20
+9,Ciudad de México,3419*,3,$79.1k MX,sep-20
+9,Ciudad de México,3399*,4,$353k MX,sep-20
+21,Puebla,3381*,6,$451k MX,sep-20
+5,Coahuila de Zaragoza,3380*,0,$643k MX,sep-20
+2,Baja California,3368*,1,$826k MX,sep-20
+15,Estado de México,3355*,7,$162k MX,sep-20
+8,Chihuahua,3353*,22,$1.57M MX,sep-20
+2,Baja California,3351*,0,$2.21M MX,sep-20
+21,Puebla,3335*,8,$175k MX,sep-20
+9,Ciudad de México,3328*,9,$261k MX,sep-20
+15,Estado de México,3268*,8,$224k MX,sep-20
+14,Jalisco,3258*,14,$373k MX,sep-20
+21,Puebla,3243*,8,$147k MX,sep-20
+19,Nuevo León,3141*,86,$5.5M MX,sep-20
+9,Ciudad de México,3126*,6,$117k MX,sep-20
+9,Ciudad de México,3106*,21,$1.97M MX,sep-20
+19,Nuevo León,3104*,5,$79.8k MX,sep-20
+19,Nuevo León,3098*,12,$312k MX,sep-20
+19,Nuevo León,3078*,11,$402k MX,sep-20
+17,Morelos,3065*,5,$108k MX,sep-20
+26,Sonora,3046*,22,$1.58M MX,sep-20
+19,Nuevo León,2988*,9,$579k MX,sep-20
+9,Ciudad de México,2986*,12,$383k MX,sep-20
+19,Nuevo León,2918*,1,$43.1k MX,sep-20
+19,Nuevo León,2913*,18,$326k MX,sep-20
+15,Estado de México,2911*,20,$418k MX,sep-20
+19,Nuevo León,2894*,4,$112k MX,sep-20
+19,Nuevo León,2893*,8,$159k MX,sep-20
+19,Nuevo León,2858*,4,$71.8k MX,sep-20
+19,Nuevo León,2842*,68,$4.76M MX,sep-20
+19,Nuevo León,2821*,5,$81.7k MX,sep-20
+19,Nuevo León,2811*,9,$181k MX,sep-20
+9,Ciudad de México,2786*,46,$2.23M MX,sep-20
+26,Sonora,2785*,0,$931k MX,sep-20
+19,Nuevo León,2767*,6,$120k MX,sep-20
+19,Nuevo León,2753*,31,$1.85M MX,sep-20
+19,Nuevo León,2752*,6,$90.2k MX,sep-20
+19,Nuevo León,2704*,7,$91.1k MX,sep-20
+14,Jalisco,2703*,7,$120k MX,sep-20
+19,Nuevo León,2700*,13,$486k MX,sep-20
+19,Nuevo León,2691*,4,$68.4k MX,sep-20
+30,Veracruz de Ignacio de la Llave,2685*,7,$208k MX,sep-20
+15,Estado de México,2683*,0,$1.7M MX,sep-20
+8,Chihuahua,2681*,11,$472k MX,sep-20
+19,Nuevo León,2675*,11,$233k MX,sep-20
+26,Sonora,2670*,5,$180k MX,sep-20
+19,Nuevo León,2664*,10,$312k MX,sep-20
+19,Nuevo León,2647*,7,$197k MX,sep-20
+19,Nuevo León,2646*,3,$49.9k MX,sep-20
+9,Ciudad de México,2594*,6,$299k MX,sep-20
+9,Ciudad de México,2593*,8,$97.9k MX,sep-20
+14,Jalisco,2577*,8,$141k MX,sep-20
+14,Jalisco,2561*,4,$81.7k MX,sep-20
+19,Nuevo León,2552*,1,$2.83M MX,sep-20
+19,Nuevo León,2551*,1,$56.1k MX,sep-20
+8,Chihuahua,2550*,6,$138k MX,sep-20
+15,Estado de México,2549*,2,$64k MX,sep-20
+9,Ciudad de México,2546*,13,$554k MX,sep-20
+19,Nuevo León,2534*,3,$1.85M MX,sep-20
+19,Nuevo León,2533*,5,$119k MX,sep-20
+8,Chihuahua,2526*,6,$107k MX,sep-20
+19,Nuevo León,2486*,5,$147k MX,sep-20
+19,Nuevo León,2484*,11,$659k MX,sep-20
+19,Nuevo León,2483*,27,$925k MX,sep-20
+19,Nuevo León,2470*,2,$39.5k MX,sep-20
+9,Ciudad de México,2449*,0,$116k MX,sep-20
+19,Nuevo León,2440*,7,$144k MX,sep-20
+26,Sonora,2408*,25,$3.33M MX,sep-20
+19,Nuevo León,2403*,9,$382k MX,sep-20
+19,Nuevo León,2370*,6,$215k MX,sep-20
+19,Nuevo León,2357*,13,$1.67M MX,sep-20
+19,Nuevo León,2352*,2,$43.4k MX,sep-20
+17,Morelos,2350*,11,$617k MX,sep-20
+19,Nuevo León,2320*,4,$66.6k MX,sep-20
+19,Nuevo León,2307*,7,$205k MX,sep-20
+19,Nuevo León,2295*,1,$1.56M MX,sep-20
+19,Nuevo León,2294*,19,$564k MX,sep-20
+15,Estado de México,2275*,2,$67.8k MX,sep-20
+15,Estado de México,2249*,3,$87.4k MX,sep-20
+26,Sonora,2217*,3,$112k MX,sep-20
+19,Nuevo León,2203*,8,$247k MX,sep-20
+9,Ciudad de México,2182*,16,$352k MX,sep-20
+19,Nuevo León,2170*,4,$64.7k MX,sep-20
+19,Nuevo León,2167*,14,$936k MX,sep-20
+19,Nuevo León,2135*,8,$625k MX,sep-20
+15,Estado de México,2134*,3,$50.1k MX,sep-20
+19,Nuevo León,2116*,9,$191k MX,sep-20
+19,Nuevo León,2106*,3,$41.9k MX,sep-20
+11,Guanajuato,2104*,3,$57.6k MX,sep-20
+19,Nuevo León,2080*,8,$134k MX,sep-20
+9,Ciudad de México,2076*,5,$71.6k MX,sep-20
+9,Ciudad de México,2072*,8,$175k MX,sep-20
+19,Nuevo León,2037*,12,$565k MX,sep-20
+8,Chihuahua,2023*,7,$164k MX,sep-20
+28,Tamaulipas,2003*,10,$267k MX,sep-20
+15,Estado de México,1982*,36,$2.4M MX,sep-20
+17,Morelos,1898*,4,$104k MX,sep-20
+19,Nuevo León,1888*,7,$182k MX,sep-20
+19,Nuevo León,1883*,4,$77.8k MX,sep-20
+19,Nuevo León,1779*,46,$11.5M MX,sep-20
+9,Ciudad de México,1712*,1,$157k MX,sep-20
+9,Ciudad de México,1656*,4,$223k MX,sep-20
+5,Coahuila de Zaragoza,1637*,7,$122k MX,sep-20
+9,Ciudad de México,1568*,16,$1.27M MX,sep-20
+9,Ciudad de México,1560*,11,$345k MX,sep-20
+26,Sonora,1556*,22,$198k MX,sep-20
+5,Coahuila de Zaragoza,1554*,6,$142k MX,sep-20
+9,Ciudad de México,1551*,14,$755k MX,sep-20
+2,Baja California,1547*,2,$631k MX,sep-20
+2,Baja California,1536*,11,$500k MX,sep-20
+8,Chihuahua,1489*,7,$233k MX,sep-20
+26,Sonora,1444*,16,$443k MX,sep-20
+9,Ciudad de México,1423*,2,$82.5k MX,sep-20
+9,Ciudad de México,1398*,10,$231k MX,sep-20
+5,Coahuila de Zaragoza,1365*,22,$310k MX,sep-20
+9,Ciudad de México,1360*,12,$235k MX,sep-20
+26,Sonora,1344*,14,$299k MX,sep-20
+8,Chihuahua,1306*,36,$1.67M MX,sep-20
+9,Ciudad de México,1286*,58,$1.75M MX,sep-20
+9,Ciudad de México,1264*,10,$229k MX,sep-20
+5,Coahuila de Zaragoza,1129*,10,$239k MX,sep-20
+8,Chihuahua,1128*,37,$2.5M MX,sep-20
+2,Baja California,1119*,36,$1.27M MX,sep-20
+2,Baja California,1112*,32,$2.02M MX,sep-20
+26,Sonora,1110*,36,$3.63M MX,sep-20
+25,Sinaloa,1028*,5,$194k MX,sep-20
+25,Sinaloa,1022*,6,$424k MX,sep-20
+25,Sinaloa,990*,6,$240k MX,sep-20
+8,Chihuahua,872*,22,$799k MX,sep-20
+9,Ciudad de México,850*,16,$463k MX,sep-20
+9,Ciudad de México,843*,2,$72.7k MX,sep-20
+30,Veracruz de Ignacio de la Llave,818*,14,$794k MX,sep-20
+14,Jalisco,812*,5,$94k MX,sep-20
+25,Sinaloa,794*,4,$188k MX,sep-20
+14,Jalisco,772*,0,$539k MX,sep-20
+14,Jalisco,758*,4,$89.9k MX,sep-20
+30,Veracruz de Ignacio de la Llave,737*,7,$510k MX,sep-20
+5,Coahuila de Zaragoza,666*,22,$1.59M MX,sep-20
+16,Michoacán de Ocampo,655*,6,$156k MX,sep-20
+8,Chihuahua,590*,33,$2.41M MX,sep-20
+9,Ciudad de México,578*,1,$95.8k MX,sep-20
+9,Ciudad de México,573*,15,$459k MX,sep-20
+27,Tabasco,539*,14,$975k MX,sep-20
+27,Tabasco,528*,5,$465k MX,sep-20
+9,Ciudad de México,522*,14,$534k MX,sep-20
+19,Nuevo León,507*,21,$604k MX,sep-20
+19,Nuevo León,498*,20,$365k MX,sep-20
+19,Nuevo León,493*,25,$1.14M MX,sep-20
+19,Nuevo León,479*,30,$3.93M MX,sep-20
+19,Nuevo León,476*,5,$252k MX,sep-20
+19,Nuevo León,471*,7,$125k MX,sep-20
+19,Nuevo León,470*,12,$438k MX,sep-20
+19,Nuevo León,464*,5,$114k MX,sep-20
+19,Nuevo León,446*,6,$260k MX,sep-20
+19,Nuevo León,435*,25,$4.09M MX,sep-20
+19,Nuevo León,431*,9,$209k MX,sep-20
+19,Nuevo León,411*,5,$184k MX,sep-20
+19,Nuevo León,406*,3,$98.1k MX,sep-20
+19,Nuevo León,385*,7,$249k MX,sep-20
+19,Nuevo León,372*,0,$133k MX,sep-20
+19,Nuevo León,371*,6,$192k MX,sep-20
+19,Nuevo León,355*,8,$328k MX,sep-20
+19,Nuevo León,348*,7,$134k MX,sep-20
+5,Coahuila de Zaragoza,344*,8,$734k MX,sep-20
+19,Nuevo León,328*,41,$2.17M MX,sep-20
+19,Nuevo León,314*,2,$104k MX,sep-20
+19,Nuevo León,306*,7,$170k MX,sep-20
+19,Nuevo León,295*,9,$243k MX,sep-20
+19,Nuevo León,294*,10,$1.34M MX,sep-20
+19,Nuevo León,257*,7,$162k MX,sep-20
+19,Nuevo León,247*,49,$4.36M MX,sep-20
+19,Nuevo León,235*,4,$94.4k MX,sep-20
+19,Nuevo León,234*,23,$1.02M MX,sep-20
+5,Coahuila de Zaragoza,231*,5,$265k MX,sep-20
+19,Nuevo León,225*,8,$130k MX,sep-20
+19,Nuevo León,196*,8,$214k MX,sep-20
+19,Nuevo León,191*,33,$1.34M MX,sep-20
+19,Nuevo León,189*,2,$46.9k MX,sep-20
+19,Nuevo León,178*,8,$191k MX,sep-20
+19,Nuevo León,174*,5,$69.5k MX,sep-20
+19,Nuevo León,169*,34,$761k MX,sep-20
+26,Sonora,160*,29,$1.97M MX,sep-20
+19,Nuevo León,157*,17,$324k MX,sep-20
+19,Nuevo León,153*,4,$112k MX,sep-20
+19,Nuevo León,150*,25,$554k MX,sep-20
+19,Nuevo León,137*,5,$133k MX,sep-20
+19,Nuevo León,127*,8,$152k MX,sep-20
+19,Nuevo León,119*,6,$231k MX,sep-20
+19,Nuevo León,114*,8,$175k MX,sep-20
+9,Ciudad de México,100*,22,$2.31M MX,sep-20
+19,Nuevo León,92*,18,$1.1M MX,sep-20
+19,Nuevo León,87*,6,$128k MX,sep-20
+19,Nuevo León,78*,4,$167k MX,sep-20
+19,Nuevo León,75*,8,$240k MX,sep-20
+26,Sonora,63*,0,$445k MX,sep-20
+19,Nuevo León,46*,11,$286k MX,sep-20
+19,Nuevo León,34*,7,$158k MX,sep-20
+19,Nuevo León,27*,26,$5.34M MX,sep-20
+19,Nuevo León,21*,4,$143k MX,sep-20
+19,Nuevo León,13*,5,$123k MX,sep-20
+19,Nuevo León,8*,85,$616k MX,sep-20

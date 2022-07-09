@@ -1,0 +1,151 @@
+State ID,State,Patient ID,Patient Treatment Days,Treatment Cost,Date
+15,Estado de México,4224*,8,$105k MX,may-20
+15,Estado de México,4125*,6,$89.4k MX,may-20
+9,Ciudad de México,4121*,0,$126k MX,may-20
+9,Ciudad de México,4108*,4,$90.2k MX,may-20
+15,Estado de México,4092*,11,$159k MX,may-20
+9,Ciudad de México,4087*,0,$83.7k MX,may-20
+15,Estado de México,4085*,8,$204k MX,may-20
+19,Nuevo León,4071*,1,$35.3k MX,may-20
+8,Chihuahua,3999*,5,$56.6k MX,may-20
+19,Nuevo León,3994*,1,$68.7k MX,may-20
+8,Chihuahua,3957*,8,$193k MX,may-20
+27,Tabasco,3955*,3,$51k MX,may-20
+2,Baja California,3863*,0,$633k MX,may-20
+5,Coahuila de Zaragoza,3840*,2,$22.2k MX,may-20
+5,Coahuila de Zaragoza,3776*,1,$17.9k MX,may-20
+5,Coahuila de Zaragoza,3740*,9,$137k MX,may-20
+25,Sinaloa,3602*,5,$76.6k MX,may-20
+9,Ciudad de México,3600*,11,$437k MX,may-20
+9,Ciudad de México,3597*,14,$469k MX,may-20
+9,Ciudad de México,3579*,6,$62.7k MX,may-20
+15,Estado de México,3578*,8,$1.03M MX,may-20
+9,Ciudad de México,3543*,4,$95.3k MX,may-20
+21,Puebla,3537*,13,$271k MX,may-20
+9,Ciudad de México,3535*,0,$148k MX,may-20
+9,Ciudad de México,3517*,0,$187k MX,may-20
+9,Ciudad de México,3516*,11,$291k MX,may-20
+8,Chihuahua,3514*,9,$164k MX,may-20
+15,Estado de México,3513*,7,$178k MX,may-20
+9,Ciudad de México,3500*,0,$276k MX,may-20
+15,Estado de México,3496*,5,$43.3k MX,may-20
+9,Ciudad de México,3482*,0,$167k MX,may-20
+21,Puebla,3474*,19,$371k MX,may-20
+28,Tamaulipas,3460*,17,$394k MX,may-20
+15,Estado de México,3426*,9,$334k MX,may-20
+15,Estado de México,3410*,0,$831k MX,may-20
+27,Tabasco,3396*,22,$833k MX,may-20
+15,Estado de México,3386*,16,$800k MX,may-20
+5,Coahuila de Zaragoza,3370*,0,$2.09M MX,may-20
+11,Guanajuato,3340*,7,$327k MX,may-20
+9,Ciudad de México,3327*,4,$143k MX,may-20
+15,Estado de México,3307*,10,$220k MX,may-20
+8,Chihuahua,3298*,4,$153k MX,may-20
+15,Estado de México,3296*,15,$405k MX,may-20
+9,Ciudad de México,3288*,5,$131k MX,may-20
+9,Ciudad de México,3287*,8,$228k MX,may-20
+15,Estado de México,3251*,0,$2.09M MX,may-20
+25,Sinaloa,3242*,31,$50.3k MX,may-20
+9,Ciudad de México,3219*,3,$168k MX,may-20
+15,Estado de México,3183*,3,$144k MX,may-20
+2,Baja California,3176*,3,$86.5k MX,may-20
+21,Puebla,3161*,13,$624k MX,may-20
+15,Estado de México,3130*,5,$66.4k MX,may-20
+15,Estado de México,3105*,4,$46.6k MX,may-20
+31,Yucatán,3011*,5,$126k MX,may-20
+9,Ciudad de México,3004*,4,$78.8k MX,may-20
+19,Nuevo León,2888*,18,$2.63M MX,may-20
+15,Estado de México,2884*,18,$1.93M MX,may-20
+9,Ciudad de México,2843*,7,$243k MX,may-20
+15,Estado de México,2788*,8,$111k MX,may-20
+2,Baja California,2787*,22,$1.72M MX,may-20
+9,Ciudad de México,2760*,7,$147k MX,may-20
+15,Estado de México,2727*,7,$245k MX,may-20
+15,Estado de México,2715*,7,$232k MX,may-20
+15,Estado de México,2698*,12,$162k MX,may-20
+15,Estado de México,2638*,9,$132k MX,may-20
+9,Ciudad de México,2617*,8,$174k MX,may-20
+5,Coahuila de Zaragoza,2575*,0,$295k MX,may-20
+9,Ciudad de México,2563*,7,$139k MX,may-20
+15,Estado de México,2453*,10,$201k MX,may-20
+9,Ciudad de México,2448*,2,$32.2k MX,may-20
+19,Nuevo León,2318*,8,$260k MX,may-20
+19,Nuevo León,2292*,1,$886k MX,may-20
+19,Nuevo León,2278*,8,$274k MX,may-20
+15,Estado de México,2216*,9,$144k MX,may-20
+15,Estado de México,2175*,4,$41.1k MX,may-20
+30,Veracruz de Ignacio de la Llave,2096*,3,$104k MX,may-20
+8,Chihuahua,2005*,3,$36.5k MX,may-20
+9,Ciudad de México,1946*,1,$2.88M MX,may-20
+26,Sonora,1907*,4,$94.6k MX,may-20
+9,Ciudad de México,1871*,7,$126k MX,may-20
+15,Estado de México,1846*,16,$462k MX,may-20
+8,Chihuahua,1839*,10,$309k MX,may-20
+9,Ciudad de México,1837*,10,$264k MX,may-20
+15,Estado de México,1825*,7,$115k MX,may-20
+9,Ciudad de México,1818*,11,$161k MX,may-20
+19,Nuevo León,1785*,4,$421k MX,may-20
+9,Ciudad de México,1762*,4,$96.6k MX,may-20
+9,Ciudad de México,1756*,5,$130k MX,may-20
+9,Ciudad de México,1754*,6,$105k MX,may-20
+9,Ciudad de México,1749*,0,$210k MX,may-20
+27,Tabasco,1745*,12,$493k MX,may-20
+9,Ciudad de México,1730*,8,$148k MX,may-20
+9,Ciudad de México,1728*,0,$3.28M MX,may-20
+2,Baja California,1696*,9,$227k MX,may-20
+9,Ciudad de México,1604*,13,$1.23M MX,may-20
+9,Ciudad de México,1598*,7,$560k MX,may-20
+5,Coahuila de Zaragoza,1590*,10,$197k MX,may-20
+9,Ciudad de México,1540*,27,$1.87M MX,may-20
+9,Ciudad de México,1534*,9,$266k MX,may-20
+27,Tabasco,1522*,18,$194k MX,may-20
+26,Sonora,1505*,2,$62k MX,may-20
+19,Nuevo León,1502*,4,$176k MX,may-20
+5,Coahuila de Zaragoza,1496*,5,$148k MX,may-20
+9,Ciudad de México,1452*,14,$860k MX,may-20
+5,Coahuila de Zaragoza,1397*,8,$150k MX,may-20
+9,Ciudad de México,1337*,0,$374k MX,may-20
+26,Sonora,1335*,5,$151k MX,may-20
+9,Ciudad de México,1313*,15,$796k MX,may-20
+9,Ciudad de México,1242*,11,$316k MX,may-20
+9,Ciudad de México,1185*,9,$196k MX,may-20
+9,Ciudad de México,1144*,26,$815k MX,may-20
+27,Tabasco,1136*,18,$710k MX,may-20
+9,Ciudad de México,1123*,0,$161k MX,may-20
+9,Ciudad de México,1098*,6,$557k MX,may-20
+9,Ciudad de México,1097*,18,$791k MX,may-20
+9,Ciudad de México,1086*,16,$320k MX,may-20
+25,Sinaloa,1080*,8,$169k MX,may-20
+30,Veracruz de Ignacio de la Llave,1073*,14,$390k MX,may-20
+9,Ciudad de México,1068*,13,$886k MX,may-20
+15,Estado de México,1052*,44,$6.52M MX,may-20
+15,Estado de México,1035*,33,$4.52M MX,may-20
+30,Veracruz de Ignacio de la Llave,1019*,11,$351k MX,may-20
+25,Sinaloa,1017*,37,$3.5M MX,may-20
+9,Ciudad de México,1009*,8,$220k MX,may-20
+14,Jalisco,971*,17,$446k MX,may-20
+9,Ciudad de México,886*,15,$466k MX,may-20
+15,Estado de México,837*,4,$205k MX,may-20
+25,Sinaloa,835*,5,$145k MX,may-20
+27,Tabasco,798*,0,$1.89M MX,may-20
+9,Ciudad de México,778*,19,$1.16M MX,may-20
+9,Ciudad de México,774*,25,$1.41M MX,may-20
+21,Puebla,747*,19,$835k MX,may-20
+9,Ciudad de México,746*,45,$1.71M MX,may-20
+31,Yucatán,727*,11,$624k MX,may-20
+9,Ciudad de México,714*,9,$176k MX,may-20
+31,Yucatán,711*,16,$691k MX,may-20
+9,Ciudad de México,710*,18,$1.43M MX,may-20
+9,Ciudad de México,674*,0,$1.19M MX,may-20
+8,Chihuahua,673*,16,$2.24M MX,may-20
+9,Ciudad de México,662*,12,$277k MX,may-20
+8,Chihuahua,661*,5,$350k MX,may-20
+9,Ciudad de México,658*,1,$950k MX,may-20
+9,Ciudad de México,648*,25,$2.38M MX,may-20
+9,Ciudad de México,644*,8,$352k MX,may-20
+8,Chihuahua,632*,10,$1.1M MX,may-20
+9,Ciudad de México,617*,8,$301k MX,may-20
+9,Ciudad de México,605*,4,$148k MX,may-20
+9,Ciudad de México,595*,8,$179k MX,may-20
+9,Ciudad de México,587*,19,$2.28M MX,may-20
+27,Tabasco,563*,6,$235k MX,may-20
