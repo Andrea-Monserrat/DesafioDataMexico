@@ -1,0 +1,154 @@
+State ID,State,Patient ID,Patient Treatment Days,Treatment Cost,Date
+31,Yucatán,4643*,5,$138k MX,jun-21
+31,Yucatán,4640*,6,$194k MX,jun-21
+31,Yucatán,4619*,10,$277k MX,jun-21
+31,Yucatán,4616*,7,$194k MX,jun-21
+30,Veracruz de Ignacio de la Llave,4605*,10,$622k MX,jun-21
+31,Yucatán,4600*,8,$221k MX,jun-21
+31,Yucatán,4576*,9,$277k MX,jun-21
+31,Yucatán,4573*,15,$417k MX,jun-21
+30,Veracruz de Ignacio de la Llave,4510*,5,$91k MX,jun-21
+31,Yucatán,4502*,14,$362k MX,jun-21
+31,Yucatán,4479*,8,$209k MX,jun-21
+31,Yucatán,4467*,7,$156k MX,jun-21
+31,Yucatán,4453*,9,$264k MX,jun-21
+31,Yucatán,4431*,13,$749k MX,jun-21
+8,Chihuahua,4413*,8,$321k MX,jun-21
+9,Ciudad de México,4407*,23,$579k MX,jun-21
+30,Veracruz de Ignacio de la Llave,4398*,26,$1.03M MX,jun-21
+8,Chihuahua,4380*,9,$136k MX,jun-21
+31,Yucatán,4300*,27,$1.55M MX,jun-21
+9,Ciudad de México,4286*,29,$1.74k MX,jun-21
+11,Guanajuato,4283*,0,$1.58k MX,jun-21
+22,Querétaro,4275*,21,$1.88M MX,jun-21
+31,Yucatán,4264*,21,$1.05M MX,jun-21
+28,Tamaulipas,4212*,15,$244k MX,jun-21
+28,Tamaulipas,4150*,0,$415k MX,jun-21
+28,Tamaulipas,4143*,4,$102k MX,jun-21
+9,Ciudad de México,4140*,4,$44.3k MX,jun-21
+28,Tamaulipas,4138*,11,$169k MX,jun-21
+28,Tamaulipas,4134*,7,$137k MX,jun-21
+9,Ciudad de México,4133*,71,$3.22M MX,jun-21
+14,Jalisco,4096*,2,$32.9k MX,jun-21
+19,Nuevo León,4062*,1,$319k MX,jun-21
+8,Chihuahua,3967*,5,$89.9k MX,jun-21
+15,Estado de México,3958*,2,$107k MX,jun-21
+19,Nuevo León,3950*,9,$120k MX,jun-21
+2,Baja California,3920*,0,$567k MX,jun-21
+2,Baja California,3908*,0,$85k MX,jun-21
+28,Tamaulipas,3902*,8,$141k MX,jun-21
+2,Baja California,3898*,31,$591k MX,jun-21
+2,Baja California,3888*,0,$237k MX,jun-21
+2,Baja California,3834*,2,$517k MX,jun-21
+28,Tamaulipas,3818*,22,$383k MX,jun-21
+9,Ciudad de México,3810*,6,$80.9k MX,jun-21
+2,Baja California,3805*,0,$604k MX,jun-21
+2,Baja California,3796*,14,$1.27M MX,jun-21
+26,Sonora,3765*,17,$362k MX,jun-21
+23,Quintana Roo,3663*,44,$520k MX,jun-21
+9,Ciudad de México,3615*,55,$88.7k MX,jun-21
+9,Ciudad de México,3564*,12,$165k MX,jun-21
+27,Tabasco,3550*,4,$107k MX,jun-21
+15,Estado de México,3528*,6,$173k MX,jun-21
+15,Estado de México,3459*,7,$556k MX,jun-21
+21,Puebla,3418*,7,$128k MX,jun-21
+23,Quintana Roo,3375*,42,$1.78M MX,jun-21
+14,Jalisco,3356*,4,$55.3k MX,jun-21
+15,Estado de México,3326*,0,$571k MX,jun-21
+9,Ciudad de México,3285*,5,$94.2k MX,jun-21
+15,Estado de México,3222*,4,$109k MX,jun-21
+19,Nuevo León,3048*,6,$94.9k MX,jun-21
+8,Chihuahua,3022*,23,$501k MX,jun-21
+25,Sinaloa,2938*,15,$316k MX,jun-21
+19,Nuevo León,2928*,14,$539k MX,jun-21
+2,Baja California,2906*,0,$152k MX,jun-21
+19,Nuevo León,2904*,15,$797k MX,jun-21
+26,Sonora,2851*,2,$52.3k MX,jun-21
+31,Yucatán,2829*,8,$827k MX,jun-21
+19,Nuevo León,2768*,7,$172k MX,jun-21
+26,Sonora,2699*,14,$229k MX,jun-21
+26,Sonora,2692*,9,$585k MX,jun-21
+27,Tabasco,2678*,5,$162k MX,jun-21
+21,Puebla,2672*,11,$409k MX,jun-21
+15,Estado de México,2648*,6,$64k MX,jun-21
+26,Sonora,2570*,4,$83.8k MX,jun-21
+19,Nuevo León,2568*,9,$281k MX,jun-21
+15,Estado de México,2510*,11,$334k MX,jun-21
+19,Nuevo León,2463*,6,$171k MX,jun-21
+8,Chihuahua,2411*,5,$124k MX,jun-21
+28,Tamaulipas,2371*,3,$82.5k MX,jun-21
+26,Sonora,2313*,5,$590k MX,jun-21
+15,Estado de México,2308*,16,$269k MX,jun-21
+30,Veracruz de Ignacio de la Llave,2252*,0,$28.1k MX,jun-21
+8,Chihuahua,2194*,35,$3.69M MX,jun-21
+19,Nuevo León,2156*,7,$99.4k MX,jun-21
+31,Yucatán,2099*,12,$1.06M MX,jun-21
+19,Nuevo León,2091*,6,$162k MX,jun-21
+19,Nuevo León,2047*,8,$186k MX,jun-21
+23,Quintana Roo,2039*,9,$1.1M MX,jun-21
+23,Quintana Roo,1992*,7,$340k MX,jun-21
+22,Querétaro,1988*,8,$444k MX,jun-21
+31,Yucatán,1974*,7,$188k MX,jun-21
+19,Nuevo León,1969*,6,$91.6k MX,jun-21
+26,Sonora,1953*,6,$634k MX,jun-21
+26,Sonora,1878*,6,$172k MX,jun-21
+19,Nuevo León,1854*,10,$546k MX,jun-21
+31,Yucatán,1808*,33,$854k MX,jun-21
+31,Yucatán,1791*,11,$255k MX,jun-21
+2,Baja California,1737*,5,$150k MX,jun-21
+9,Ciudad de México,1722*,5,$121k MX,jun-21
+9,Ciudad de México,1701*,5,$102k MX,jun-21
+15,Estado de México,1697*,11,$679k MX,jun-21
+9,Ciudad de México,1657*,1,$358k MX,jun-21
+9,Ciudad de México,1634*,0,$143k MX,jun-21
+19,Nuevo León,1632*,18,$827k MX,jun-21
+26,Sonora,1621*,22,$204k MX,jun-21
+30,Veracruz de Ignacio de la Llave,1615*,6,$175k MX,jun-21
+25,Sinaloa,1600*,1,$555k MX,jun-21
+9,Ciudad de México,1517*,3,$79.4k MX,jun-21
+14,Jalisco,1446*,0,$8.38M MX,jun-21
+9,Ciudad de México,1438*,7,$131k MX,jun-21
+26,Sonora,1404*,8,$139k MX,jun-21
+9,Ciudad de México,1402*,15,$1.02M MX,jun-21
+19,Nuevo León,1377*,30,$1.57M MX,jun-21
+2,Baja California,1369*,10,$690k MX,jun-21
+26,Sonora,1321*,0,$650k MX,jun-21
+9,Ciudad de México,1235*,0,$577k MX,jun-21
+9,Ciudad de México,1190*,15,$265k MX,jun-21
+26,Sonora,1181*,6,$109k MX,jun-21
+2,Baja California,1159*,18,$1.03M MX,jun-21
+21,Puebla,1152*,3,$327k MX,jun-21
+5,Coahuila de Zaragoza,1115*,14,$259k MX,jun-21
+14,Jalisco,1100*,5,$136k MX,jun-21
+19,Nuevo León,1092*,0,$27.8M MX,jun-21
+19,Nuevo León,903*,7,$146k MX,jun-21
+28,Tamaulipas,876*,17,$496k MX,jun-21
+25,Sinaloa,865*,6,$284k MX,jun-21
+25,Sinaloa,857*,13,$554k MX,jun-21
+28,Tamaulipas,834*,19,$1.14M MX,jun-21
+9,Ciudad de México,770*,44,$1.29M MX,jun-21
+9,Ciudad de México,766*,6,$165k MX,jun-21
+9,Ciudad de México,723*,13,$303k MX,jun-21
+25,Sinaloa,717*,21,$1.4M MX,jun-21
+8,Chihuahua,642*,16,$965k MX,jun-21
+8,Chihuahua,615*,79,$5.41M MX,jun-21
+9,Ciudad de México,581*,4,$633k MX,jun-21
+14,Jalisco,559*,0,$7.06M MX,jun-21
+27,Tabasco,552*,9,$498k MX,jun-21
+19,Nuevo León,538*,19,$1.58M MX,jun-21
+19,Nuevo León,535*,19,$848k MX,jun-21
+19,Nuevo León,532*,20,$2.15M MX,jun-21
+9,Ciudad de México,518*,1,$253k MX,jun-21
+19,Nuevo León,483*,43,$727k MX,jun-21
+19,Nuevo León,419*,6,$144k MX,jun-21
+19,Nuevo León,325*,27,$1.53M MX,jun-21
+19,Nuevo León,290*,5,$98.4k MX,jun-21
+19,Nuevo León,277*,7,$138k MX,jun-21
+19,Nuevo León,146*,10,$220k MX,jun-21
+19,Nuevo León,128*,45,$3.78M MX,jun-21
+19,Nuevo León,115*,3,$104k MX,jun-21
+19,Nuevo León,77*,4,$107k MX,jun-21
+19,Nuevo León,55*,6,$137k MX,jun-21
+19,Nuevo León,43*,7,$146k MX,jun-21
+19,Nuevo León,36*,7,$145k MX,jun-21
+19,Nuevo León,24*,0,$226k MX,jun-21

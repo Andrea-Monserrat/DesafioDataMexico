@@ -1,0 +1,84 @@
+State ID,State,Patient ID,Patient Treatment Days,Treatment Cost,Date
+15,Estado de México,4217*,9,$157k MX,abr-20
+9,Ciudad de México,4135*,9,$92.4k MX,abr-20
+9,Ciudad de México,4117*,9,$84.1k MX,abr-20
+21,Puebla,3726*,6,$98k MX,abr-20
+15,Estado de México,3672*,8,$190k MX,abr-20
+21,Puebla,3669*,7,$127k MX,abr-20
+9,Ciudad de México,3649*,0,$367k MX,abr-20
+21,Puebla,3644*,6,$120k MX,abr-20
+25,Sinaloa,3643*,10,$221k MX,abr-20
+21,Puebla,3638*,15,$265k MX,abr-20
+21,Puebla,3556*,7,$182k MX,abr-20
+9,Ciudad de México,3499*,6,$99.2k MX,abr-20
+9,Ciudad de México,3490*,7,$114k MX,abr-20
+25,Sinaloa,3451*,7,$182k MX,abr-20
+9,Ciudad de México,3441*,0,$150k MX,abr-20
+2,Baja California,3436*,12,$224k MX,abr-20
+9,Ciudad de México,3373*,8,$109k MX,abr-20
+15,Estado de México,3371*,4,$215k MX,abr-20
+9,Ciudad de México,3346*,0,$191k MX,abr-20
+15,Estado de México,3308*,8,$521k MX,abr-20
+15,Estado de México,3273*,6,$237k MX,abr-20
+9,Ciudad de México,3264*,0,$71.3k MX,abr-20
+9,Ciudad de México,3252*,6,$156k MX,abr-20
+15,Estado de México,3121*,6,$152k MX,abr-20
+19,Nuevo León,3031*,17,$981k MX,abr-20
+9,Ciudad de México,3017*,6,$86k MX,abr-20
+9,Ciudad de México,2883*,11,$205k MX,abr-20
+15,Estado de México,2824*,7,$124k MX,abr-20
+15,Estado de México,2802*,5,$315k MX,abr-20
+9,Ciudad de México,2764*,8,$129k MX,abr-20
+9,Ciudad de México,2616*,15,$233k MX,abr-20
+9,Ciudad de México,2579*,29,$717k MX,abr-20
+9,Ciudad de México,2523*,6,$117k MX,abr-20
+31,Yucatán,2434*,5,$100k MX,abr-20
+9,Ciudad de México,2290*,6,$100k MX,abr-20
+9,Ciudad de México,2211*,0,$512k MX,abr-20
+2,Baja California,1939*,10,$167k MX,abr-20
+9,Ciudad de México,1857*,4,$102k MX,abr-20
+9,Ciudad de México,1746*,1,$167k MX,abr-20
+31,Yucatán,1674*,3,$79.7k MX,abr-20
+9,Ciudad de México,1667*,5,$142k MX,abr-20
+9,Ciudad de México,1638*,22,$1.38M MX,abr-20
+9,Ciudad de México,1633*,28,$1.71M MX,abr-20
+21,Puebla,1605*,17,$731k MX,abr-20
+9,Ciudad de México,1524*,22,$1.42M MX,abr-20
+27,Tabasco,1519*,6,$341k MX,abr-20
+9,Ciudad de México,1490*,9,$124k MX,abr-20
+2,Baja California,1405*,3,$82k MX,abr-20
+9,Ciudad de México,1376*,0,$75.7k MX,abr-20
+9,Ciudad de México,1307*,0,$586k MX,abr-20
+9,Ciudad de México,1300*,5,$93.3k MX,abr-20
+9,Ciudad de México,1258*,7,$239k MX,abr-20
+9,Ciudad de México,1252*,0,$498k MX,abr-20
+9,Ciudad de México,1246*,0,$120k MX,abr-20
+9,Ciudad de México,1227*,5,$129k MX,abr-20
+25,Sinaloa,1036*,11,$285k MX,abr-20
+19,Nuevo León,1032*,2,$216k MX,abr-20
+2,Baja California,1023*,8,$311k MX,abr-20
+9,Ciudad de México,1018*,11,$936k MX,abr-20
+9,Ciudad de México,1013*,9,$236k MX,abr-20
+25,Sinaloa,1008*,6,$189k MX,abr-20
+15,Estado de México,979*,10,$676k MX,abr-20
+9,Ciudad de México,953*,9,$281k MX,abr-20
+9,Ciudad de México,941*,10,$130k MX,abr-20
+25,Sinaloa,913*,8,$296k MX,abr-20
+9,Ciudad de México,906*,6,$190k MX,abr-20
+9,Ciudad de México,899*,1,$134k MX,abr-20
+25,Sinaloa,878*,8,$124k MX,abr-20
+9,Ciudad de México,867*,12,$406k MX,abr-20
+9,Ciudad de México,819*,6,$165k MX,abr-20
+9,Ciudad de México,793*,13,$232k MX,abr-20
+25,Sinaloa,756*,5,$141k MX,abr-20
+9,Ciudad de México,713*,26,$391k MX,abr-20
+9,Ciudad de México,659*,0,$345k MX,abr-20
+9,Ciudad de México,646*,13,$294k MX,abr-20
+8,Chihuahua,618*,8,$241k MX,abr-20
+8,Chihuahua,596*,5,$139k MX,abr-20
+22,Querétaro,530*,8,$226k MX,abr-20
+19,Nuevo León,482*,29,$1.36M MX,abr-20
+19,Nuevo León,437*,3,$190k MX,abr-20
+9,Ciudad de México,342*,6,$107k MX,abr-20
+19,Nuevo León,269*,19,$932k MX,abr-20
+19,Nuevo León,101*,4,$130k MX,abr-20
